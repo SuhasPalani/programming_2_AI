@@ -1,5 +1,4 @@
-# programming_2_AI
-Sudoku using brute-force, backtracking, and MRV Heuristics
+# Sudoku using brute-force, backtracking, and MRV Heuristics
 
 testcases are in testcase folder
 <br>
